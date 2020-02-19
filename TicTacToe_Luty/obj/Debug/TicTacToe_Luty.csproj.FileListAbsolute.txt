@@ -1,0 +1,10 @@
+c:\users\komp\source\repos\TicTacToe_Luty\TicTacToe_Luty\obj\Debug\TicTacToe_Luty.csprojAssemblyReference.cache
+c:\users\komp\source\repos\TicTacToe_Luty\TicTacToe_Luty\obj\Debug\TicTacToe_Luty.Form1.resources
+c:\users\komp\source\repos\TicTacToe_Luty\TicTacToe_Luty\obj\Debug\TicTacToe_Luty.Properties.Resources.resources
+c:\users\komp\source\repos\TicTacToe_Luty\TicTacToe_Luty\obj\Debug\TicTacToe_Luty.csproj.GenerateResource.cache
+c:\users\komp\source\repos\TicTacToe_Luty\TicTacToe_Luty\obj\Debug\TicTacToe_Luty.csproj.CoreCompileInputs.cache
+c:\users\komp\source\repos\TicTacToe_Luty\TicTacToe_Luty\bin\Debug\TicTacToe_Luty.exe.config
+c:\users\komp\source\repos\TicTacToe_Luty\TicTacToe_Luty\bin\Debug\TicTacToe_Luty.exe
+c:\users\komp\source\repos\TicTacToe_Luty\TicTacToe_Luty\bin\Debug\TicTacToe_Luty.pdb
+c:\users\komp\source\repos\TicTacToe_Luty\TicTacToe_Luty\obj\Debug\TicTacToe_Luty.exe
+c:\users\komp\source\repos\TicTacToe_Luty\TicTacToe_Luty\obj\Debug\TicTacToe_Luty.pdb
